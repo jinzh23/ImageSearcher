@@ -1,0 +1,27 @@
+.mainHeader {
+  display: flex;
+  justify-content: space-evenly;
+  background-image: url("https://images.unsplash.com/photo-1601653110108-f827cd1ba33d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
+
+.mainTitle {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 3rem;
+  margin-top: 20vh;
+  text-shadow: 0ch 0ch 1ch grey;
+  font-weight: 600;
+}
+
+.mainDescription {
+  color: white;
+  margin-bottom: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-shadow: 0ch 0ch 1ch grey;
+  text-align: center;
+}
